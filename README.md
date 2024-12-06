@@ -1,4 +1,4 @@
-# In the Name of Allah, gracious and merciful
+# In the name of Allah, the Most Gracious, the Most Merciful
 # Spam Email Detector
  Spam Email Detector based on ~164K email Sample
 
